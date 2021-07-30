@@ -15,18 +15,6 @@
     "filename": "pages/04.license.md"
   }],
   "glyphs": [{
-    "name": "df-F",
-    "code": "#xf190"
-  }, {
-    "name": "df-F-minus",
-    "code": "#xf191"
-  }, {
-    "name": "df-F-plus",
-    "code": "#xf192"
-  }, {
-    "name": "df-F-zero",
-    "code": "#xf193"
-  }, {
     "name": "df-d10",
     "code": "#xf194"
   }, {
@@ -236,6 +224,18 @@
   }, {
     "name": "df-d8-8",
     "code": "#xf13e"
+  }, {
+    "name": "df-dF",
+    "code": "#xf19c"
+  }, {
+    "name": "df-dF-minus",
+    "code": "#xf19d"
+  }, {
+    "name": "df-dF-plus",
+    "code": "#xf19e"
+  }, {
+    "name": "df-dF-zero",
+    "code": "#xf19f"
   }, {
     "name": "df-dot-d6",
     "code": "#xf19b"

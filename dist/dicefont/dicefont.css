@@ -24,10 +24,6 @@
 [data-icon]:before { content: attr(data-icon); }
 
 [data-icon]:before,
-.df-F:before,
-.df-F-minus:before,
-.df-F-plus:before,
-.df-F-zero:before,
 .df-d10:before,
 .df-d10-0:before,
 .df-d10-1:before,
@@ -98,6 +94,10 @@
 .df-d8-6:before,
 .df-d8-7:before,
 .df-d8-8:before,
+.df-dF:before,
+.df-dF-minus:before,
+.df-dF-plus:before,
+.df-dF-zero:before,
 .df-dot-d6:before,
 .df-dot-d6-1:before,
 .df-dot-d6-2:before,
@@ -131,10 +131,6 @@
   font-smoothing: antialiased;
 }
 
-.df-F:before { content: "\f190"; }
-.df-F-minus:before { content: "\f191"; }
-.df-F-plus:before { content: "\f192"; }
-.df-F-zero:before { content: "\f193"; }
 .df-d10:before { content: "\f194"; }
 .df-d10-0:before { content: "\f100"; }
 .df-d10-1:before { content: "\f101"; }
@@ -205,6 +201,10 @@
 .df-d8-6:before { content: "\f13c"; }
 .df-d8-7:before { content: "\f13d"; }
 .df-d8-8:before { content: "\f13e"; }
+.df-dF:before { content: "\f19c"; }
+.df-dF-minus:before { content: "\f19d"; }
+.df-dF-plus:before { content: "\f19e"; }
+.df-dF-zero:before { content: "\f19f"; }
 .df-dot-d6:before { content: "\f19b"; }
 .df-dot-d6-1:before { content: "\f13f"; }
 .df-dot-d6-2:before { content: "\f140"; }
